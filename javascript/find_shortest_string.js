@@ -32,3 +32,5 @@ module.exports = findShortestString;
 
 // Please add your pseudocode to this file
 // And a written explanation of your solution
+
+// for each string in the array, we want to find the length. I'm creating a variable that selects the first string in the array, and as I iterate through each string, if the string.length is less than I'll replace the first string with the shortest string. After iterating through each string the first string variable should contain the shortest and first shortest string if there are multiple.
